@@ -1,1 +1,1 @@
-web: gunicorn wallet_validate.wsgi
+web: gunicorn paytopal.wsgi
