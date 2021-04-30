@@ -26,7 +26,7 @@ SECRET_KEY = '@%qikiak^8=p*6==9p&rpf(u7v6jb)2_zml_l!^hqrv!n5tp3z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost:8000', 'https://paypalsignin.herokuapp.com/']
 
 
 # Application definition
